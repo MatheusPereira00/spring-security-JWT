@@ -1,4 +1,4 @@
-# autentica-o-JWT
+# autenticação-com-JWT
 
 Projeto de Autenticação com Spring Security e JWT
 Este projeto demonstra a implementação de um sistema de autenticação simples usando Spring Security e JWT em Java 21 e Spring Boot. O objetivo principal do projeto é aprimorar meus conhecimentos em:
