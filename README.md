@@ -1,2 +1,2 @@
 # autentica-o-JWT
-<img src="/assets/imgTable.png" alt="Logo tabela">
+<img src="/.mvn/assets/imgTable.png" alt="Logo tabela">
